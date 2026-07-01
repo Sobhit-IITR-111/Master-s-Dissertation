@@ -10,3 +10,5 @@ Topic: "Quantifying Texturally Controlled Physical and Seismic Rock Properties i
 7) Contributed toward understanding how pore-scale alterations caused by CO₂ sequestration may influence larger-scale seismic observables, supporting future CCS monitoring strategies in basalt formations.
 
 # Summary: I worked on investigating the effectiveness and feasibility of CO2 sequestration in basalts by quantifying the physical the seismic rock properties in Pre and Post CO2 state that will help us to constitute the rock physics framework which builds the gap between micro scale textural properties evolution with the macro-scale time lapse-seismic monitoring of CO2.
+
+Please find my Master Thesis Report for more details of the work.
